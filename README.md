@@ -1,6 +1,6 @@
-#Cơ Sở Dữ Liệu Phân Tán - IS211.M11
+# Cơ Sở Dữ Liệu Phân Tán - IS211.M11
 
-##Nhóm 5
+## Nhóm 5
 
 | MSSV   | Họ và tên    |
 |--------------- | --------------- |
